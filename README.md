@@ -11,4 +11,5 @@ The work included:
 - building error correction models to identify short-term and long-term relationship
 
 In the file with the name of the thesis you can find the code of the built models
+
 In the cointegration tests file you can find the test calculations 
